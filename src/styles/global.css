@@ -1,0 +1,15 @@
+:root {
+  color-scheme: light;
+  background-color: #fffafa;
+  font-family: 'Source Han Serif SC', 'Songti SC', serif;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
